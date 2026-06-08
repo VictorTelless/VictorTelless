@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Python**
+  🦄 Linguagens: Python
 </p>
 
 <p align="left">
-  💼 Ferramentas: **VS Code (Visual Studio Code)**
+  💼 Ferramentas: VS Code (Visual Studio Code)
 </p>
 
 <p align="left">
@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=(https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="#" title="WhatsApp">
