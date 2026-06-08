@@ -1,26 +1,38 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="C:\Users\Marcos Galindo\Downloads\download.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Olá! Meu nome é Victor Telles e sou estudante de Ciência da Computação na CESAR School. Tenho interesse em desenvolvimento de software, com foco especial em front-end, buscando criar interfaces modernas, intuitivas e funcionais. Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades para desenvolver soluções que unam desempenho, usabilidade e boas práticas de programação.
+# Olá, eu sou Victor Telles 👋
 
-</p>
+Sou estudante de Ciência da Computação na CESAR School e tenho grande interesse em desenvolvimento de software, com foco em **Front-End**. Busco criar interfaces modernas, intuitivas e acessíveis, sempre priorizando experiência do usuário, desempenho e boas práticas de desenvolvimento.
 
-<p align="left">
-  🦄 Linguagens: Python
-</p>
+Atualmente, estou expandindo meus conhecimentos em programação, desenvolvimento web e engenharia de software, procurando aplicar teoria e prática na construção de soluções funcionais e inovadoras.
 
-<p align="left">
-  💼 Ferramentas: VS Code (Visual Studio Code)
-</p>
+## 🚀 Tecnologias e Ferramentas
 
-<p align="left">
-  💌 Caso deseje entrar em contato: ⤵️
-</p>
+### 🦄 Linguagens
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=victinhotelles@gmail.com" alt="Gmail"/></a> ➡️ victinhotelles@gmail.com
-  </p>
-  <a href="#" title="LinkedIn"> 
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-telles-9150143b8/" alt="LinkedIn"></a> ➡️ Victor Telles
-</p>
+* Python
+
+### 💼 Ferramentas
+
+* Visual Studio Code (VS Code)
+* Git e GitHub
+
+## 📚 Atualmente Estudando
+
+* Desenvolvimento Front-End
+* Estruturas de Dados
+* Algoritmos
+* Engenharia de Software
+
+## 📫 Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victinhotelles@gmail.com)
+
+📧 **[victinhotelles@gmail.com](mailto:victinhotelles@gmail.com)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-telles-9150143b8/)
+
+💼 **[Victor Telles](https://www.linkedin.com/in/victor-telles-9150143b8/)**
+---
+
+> "Transformando aprendizado em soluções através da tecnologia."
