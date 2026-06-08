@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Meu nome é **Victor Telles** e sou estudante de Ciência da Computação na CESAR School. Tenho interesse em desenvolvimento de software, com foco especial em front-end, buscando criar interfaces modernas, intuitivas e funcionais. Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades para desenvolver soluções que unam desempenho, usabilidade e boas práticas de programação.
+  Olá! Meu nome é Victor Telles e sou estudante de Ciência da Computação na CESAR School. Tenho interesse em desenvolvimento de software, com foco especial em front-end, buscando criar interfaces modernas, intuitivas e funcionais. Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades para desenvolver soluções que unam desempenho, usabilidade e boas práticas de programação.
 
 </p>
 
