@@ -1,7 +1,8 @@
-<img src="C:\Users\Marcos Galindo\Downloads\download.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-# Olá, eu sou Victor Telles 👋
-
+<h1>
+  # Olá, eu sou Victor Telles 👋
+  <img align="right" width="220" src="https://github.com/user-attachments/assets/774b5d0e-7ce8-4d39-9642-d9e7f146afcb" />
+</h1>
 Sou estudante de Ciência da Computação na CESAR School e tenho grande interesse em desenvolvimento de software, com foco em **Front-End**. Busco criar interfaces modernas, intuitivas e acessíveis, sempre priorizando experiência do usuário, desempenho e boas práticas de desenvolvimento.
 
 Atualmente, estou expandindo meus conhecimentos em programação, desenvolvimento web e engenharia de software, procurando aplicar teoria e prática na construção de soluções funcionais e inovadoras.
@@ -20,9 +21,6 @@ Atualmente, estou expandindo meus conhecimentos em programação, desenvolviment
 ## 📚 Atualmente Estudando
 
 * Desenvolvimento Front-End
-* Estruturas de Dados
-* Algoritmos
-* Engenharia de Software
 
 ## 📫 Contato
 
