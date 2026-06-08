@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 *Linguagens: Python*
+  🦄 Linguagens: Python
 </p>
 
 <p align="left">
-  💼 **Ferramentas: VS Code (Visual Studio Code)**
+  💼 Ferramentas: VS Code (Visual Studio Code)
 </p>
 
 <p align="left">
@@ -19,8 +19,8 @@
 
 <p align="left">
   <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=victinhotelles@gmail.com" alt="Gmail"/></a> ➡️ **victinhotelles@gmail.com**
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=victinhotelles@gmail.com" alt="Gmail"/></a> ➡️ victinhotelles@gmail.com
   </p>
   <a href="#" title="LinkedIn"> 
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-telles-9150143b8/" alt="LinkedIn"></a> ➡️ **Victor Telles**
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-telles-9150143b8/" alt="LinkedIn"></a> ➡️ Victor Telles
 </p>
